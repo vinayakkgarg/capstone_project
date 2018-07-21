@@ -1,0 +1,32 @@
+body{
+  font-family: 'Bree Serif', sans-serif;
+  text-align: center;
+  background: #0E1C36;
+  color: white;
+  border-top: 30px solid #0E1C36;
+  border-left: 50px solid #C5D1EB;
+  border-right:  50px solid #C5D1EB;
+  border-bottom:  50px solid #C5D1EB;
+  padding: 0px 150px 30px 150px;
+}
+
+#submit{
+  background-color: yellow;
+  height: 100px;
+  width: 225px;
+  font-size: 30px;
+  border-radius: 25px;
+}
+
+input{
+    height: 30px;
+    width: 225px;
+}
+
+p{
+  font-size: 18px;
+}
+
+label{
+  font-size: 22px;
+}
