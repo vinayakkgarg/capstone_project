@@ -10,6 +10,10 @@ body{
   padding: 0px 150px 30px 150px;
 }
 
+h1, h2{
+  font-size: 40px;
+}
+
 #submit{
   background-color: yellow;
   height: 100px;
