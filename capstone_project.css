@@ -10,6 +10,11 @@ body{
   padding: 0px 150px 30px 150px;
 }
 
+.btn:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
 #submit{
   background-color: yellow;
   height: 100px;
